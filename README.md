@@ -199,7 +199,7 @@ The final dashboard enables executives to investigate revenue drivers through an
 
 ### Dashboard Preview
 ---
-https://github.com/Aditijha5/Apple-Global-Sales-Analysis/blob/main/Img%201-%20Executive%20Dashboard.png
+
 
 # 📌 Major Insights
 
