@@ -197,10 +197,6 @@ The final dashboard enables executives to investigate revenue drivers through an
 - AI Decision Assistant (Future Scope)
 
 
-### Dashboard Preview
----
-
-
 # 📌 Major Insights
 
 ### Revenue
