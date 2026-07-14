@@ -111,6 +111,36 @@ Strategic Recommendations
 ```
 
 ---
+### Business Question Answered
+
+1. Measure overall business performance using key KPIs.
+2. Identify top revenue-generating product categories.
+3. Find the best-selling product categories by units sold.
+4. Compare revenue across sales channels.
+5. Identify the highest revenue-generating countries.
+6. Compare performance across customer segments.
+7. Identify categories exceeding $1M in revenue.
+8. Compare average selling price across categories.
+9. Analyze purchasing patterns by customer age group.
+10. Find sales channels outperforming the company average.
+11. Calculate revenue contribution by product category.
+12. Rank product categories by total revenue.
+13. Rank countries by revenue generated.
+14. Identify channels with the highest average order value.
+15. Rank product categories by customer ratings.
+16. Analyze month-over-month revenue trends.
+17. Track cumulative revenue growth over time.
+18. Detect high-revenue countries with high return rates.
+19. Identify profitable categories with high product returns.
+20. Compare customer segments by revenue and returns.
+21. Find the top product in each category.
+22. Identify the best-performing country for each category.
+23. Find highly rated products with low revenue.
+24. Detect profitable products with high return rates.
+25. Evaluate revenue across different price bands.
+26. Assess the impact of discounts on sales performance.
+27. Rank the top three products within each category.
+
 
 # 📈 Dashboard Overview
 
@@ -131,20 +161,6 @@ Provides a high-level business summary through executive KPIs.
 - Revenue by Country
 - Revenue by Sales Channel
 - Top Selling Products
-
-### Business Question Answered
-
-> **What happened?**
-
----
-
-### Dashboard Preview
-
-```
-(Add Screenshot Here)
-```
-
----
 
 # 📦 Page 2 — Product Analytics
 
@@ -167,19 +183,6 @@ A detailed analysis of Apple's product portfolio.
 - Education customers contribute the highest revenue.
 - Accessories generate the lowest standalone revenue.
 
-### Business Question Answered
-
-> **Why did it happen?**
-
----
-
-### Dashboard Preview
-
-```
-(Add Screenshot Here)
-```
-
----
 
 # 🎯 Page 3 — Executive Decision Center
 
@@ -193,23 +196,8 @@ The final dashboard enables executives to investigate revenue drivers through an
 - Strategic Recommendations
 - AI Decision Assistant (Future Scope)
 
-### Business Question Answered
-
-> **What should we do next?**
-
----
 
 ### Dashboard Preview
-
-```
-<img width="1217" height="680" alt="image" src="https://github.com/user-attachments/assets/09306d16-0270-4d81-98ea-163930009703" />
-<img width="1262" height="702" alt="WhatsApp Image 2026-07-14 at 15 03 53" src="https://github.com/user-attachments/assets/49297fb0-879e-47bd-b090-a3f8dc148df0" />
-<img width="1212" height="699" alt="WhatsApp Image 2026-07-14 at 15 04 55" src="https://github.com/user-attachments/assets/72f47ac1-6987-45b2-8629-9c0235f4e810" />
-
-
-
-```
-
 ---
 
 # 📌 Major Insights
